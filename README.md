@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROFILE%20UPDATED-October%202025-0EA5E9?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/PROFILE%20UPDATED-October%20$(date+%Y)-0EA5E9?style=for-the-badge&labelColor=0F172A" />
 <img src="https://komarev.com/ghpvc/?username=karadhub&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/FOCUS-SRE-38BDF8?style=for-the-badge&labelColor=0F172A" />
 
